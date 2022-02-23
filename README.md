@@ -39,9 +39,9 @@
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <div align="center">
-    <a href="facebook.com/phuc16102001"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-    <a href="linkedin.com/phuc16102001"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="youtube.com/channel/UCIGu9wxM0rMvulvOyoh1jBw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+    <a href="https://www.facebook.com/phuc16102001"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+    <a href="https://www.linkedin.com/phuc16102001"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.youtube.com/channel/UCIGu9wxM0rMvulvOyoh1jBw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
     <a href="mailto:phuc16102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.kaggle.com/phuc16102001"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </div>
