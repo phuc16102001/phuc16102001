@@ -30,8 +30,8 @@
 <h2 align="center">📊 Github Stats 📊</h2>
 <br>
 <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuc16102001&layout=compact&theme=algolia"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=phuc16102001&show_icons=true&theme=algolia" />
+    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuc16102001&layout=compact&theme=algolia"/>
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=phuc16102001&show_icons=true&theme=algolia" />
 </div>
 <br>
 
@@ -41,5 +41,5 @@
     <a href="facebook.com/phuc16102001"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     <a href="linkedin.com/phuc16102001"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="youtube.com/channel/UCIGu9wxM0rMvulvOyoh1jBw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" atl="phuc16102001@gmail.com">
+    <a href="mailto:phuc16102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
