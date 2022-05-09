@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
+<br>
 <h2 align="center">🧰 Technologies and Tools 🧰</h2>
 <br>
 <div align="center">
