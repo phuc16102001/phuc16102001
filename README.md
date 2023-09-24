@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/phuc16102001/">
         <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="phuc.do@navercorp.com">
+    <a href="mailto:phuc.do@navercorp.com">
         <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="https://www.youtube.com/channel/UCIGu9wxM0rMvulvOyoh1jBw">
