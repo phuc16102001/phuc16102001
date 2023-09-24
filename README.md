@@ -20,6 +20,9 @@
     <a href="https://www.youtube.com/channel/UCIGu9wxM0rMvulvOyoh1jBw">
         <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
     </a>  
+    <a href="https://stackoverflow.com/users/15691399/phuc16102001">
+        <img src="svg/social/stackoverflow.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
+    </a>  
 </div>
 
 ## Mostly I am working with 🛠️
