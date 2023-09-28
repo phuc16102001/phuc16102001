@@ -1,4 +1,4 @@
-<img src="img/hcmus.jpg" style="width: 100%">
+<img src="img/hcmus.gif" style="width: 100%">
 
 ## Hi guys! This is Stephen :octocat:
 
