@@ -2,7 +2,7 @@
 
 ## Hi guys! This is Stephen :octocat:
 
-🎓 Studying at the University of Science, I am majoring in Computer Science.
+🎓 Graduated as a valedictorian at the University of Science, majoring in Computer Science.
 
 💼 Currently, I am working at the [Naver](https://www.navercorp.com/en/naver/company) as a backend engineering.
 
