@@ -4,7 +4,7 @@
 
 🎓 Graduated as a valedictorian at the University of Science, majoring in Computer Science.
 
-💼 Currently, I am working at the [Naver](https://www.navercorp.com/en/naver/company) as a backend engineering.
+💼 Currently, I am working at the [Microsoft](https://www.microsoft.com/) as a backend engineering.
 
 📝 You can find more about me at [my personal profile](https://phuc16102001.github.io).
 
